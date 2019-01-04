@@ -1,2 +1,1 @@
-# experimental
-Experimental projects
+# Experimental Automaton projects
